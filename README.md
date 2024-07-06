@@ -24,7 +24,7 @@
 
 
 <h1>
-  Entry-level Cyber Security
+  Entry-level Cyber Security Analysts
 </h1>
 
 <div align="center">
