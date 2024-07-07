@@ -81,7 +81,7 @@ I love helping people, value protecting others from scams, and consistently solv
 
 
 ---
-## Core Skills
+## 👨‍💼 Core Skills
 
 
  <div>
