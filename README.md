@@ -24,7 +24,7 @@
 
 
 <h1>
-  Entry-level Cyber Security Analysts
+ 🛡️ Entry-level Cyber Security Analysts 
 </h1>
 
 <div align="center">
@@ -50,8 +50,10 @@ I love helping people, value protecting others from scams, and consistently solv
 📝👉 <a href="https://drive.google.com/file/d/1yLSDdr0OpqDGcLG7OBgB1zDxtJxPSzYy/view?usp=sharing">
  <b>Click Here</b> </a>👈
 
- 
-| Technical Skills                                       | Transferable Skills         |
+
+ <div>
+   
+   | Technical Skills                                       | Transferable Skills         |
 |-----------------------------------------------|----------------------------|
 | Security Information and Event Manager          | Communication|
 | Programming Languages | Collaboration|
@@ -59,9 +61,23 @@ I love helping people, value protecting others from scams, and consistently solv
 | Intrusion Detection System     | Diverse Perspective|
 | Threat landscape Knowledge             | Problem Solving|
 | Incident Response | Time Management|
+
+ </div>
+
+
+
+## 🎓 Education 
+<ul>
+  <li>Bachelor of Science in Computer Engineering, <br/> Notre Dame of Dadiangas University, Graduated 2024</li>
+ <!-- <li>Master of Science in Cyber Security, <br/> ABC University, Expected Graduation 2024</li> -->
+</ul>
+
+
 ---
+ 
 
 ### :hammer_and_wrench: Languages and Tools :
+
 
 <div>
  
