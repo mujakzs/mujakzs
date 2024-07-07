@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-  <img src="./images/banner.png" alt="Andrian Gultiano"></img>
+  <img src="./Portfolio Documents/images/banner.png" alt="Andrian Gultiano"></img>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/andrian-gultiano-48027a294">
@@ -67,7 +67,7 @@ I love helping people, value protecting others from scams, and consistently solv
 ## 📁 Portfolio projects
 
 <ul>
-  <li> Drafting a professional statement </li>
+  <li> <a href="https://drive.google.com/file/d/1ty5wzlfUwj3awEbh1jtuixJR2P4n681d/view?usp=sharing"> Drafting a professional statement</a> </li>
   <li> Conducting a security audit </li>
   <li> Analyzing network structure and security </li>
   <li> Using Linux commands to manage file permissions </li>
