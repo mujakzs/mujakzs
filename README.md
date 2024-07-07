@@ -64,14 +64,19 @@ I love helping people, value protecting others from scams, and consistently solv
 
  </div>
 
+## 📁 Portfolio projects
 
-
-## 🎓 Education 
 <ul>
-  <li>Bachelor of Science in Computer Engineering, <br/> Notre Dame of Dadiangas University, Graduated 2024</li>
- <!-- <li>Master of Science in Cyber Security, <br/> ABC University, Expected Graduation 2024</li> -->
+  <li> Drafting a professional statement </li>
+  <li> Conducting a security audit </li>
+  <li> Analyzing network structure and security </li>
+  <li> Using Linux commands to manage file permissions </li>
+  <li> Applying filters to SQL queries </li>
+  <li> Identifying vulnerabilities for a small business </li>
+  <li> Documenting incidents with an incident handler’s journal </li>
+  <li> Importing and parsing a text file in a security-related scenario </li>
+  <li> Creating or revising a resume </li>
 </ul>
-
 
 ---
  
