@@ -54,8 +54,19 @@ I love helping people, value protecting others from scams, and consistently solv
 ## 📁 Portfolio projects
 
 <ul>
-  <li> <a href="https://drive.google.com/file/d/1ty5wzlfUwj3awEbh1jtuixJR2P4n681d/view?usp=sharing"> Drafting a professional statement</a> </li>
-  <li> Conducting a security audit </li>
+  <li> 
+    <a href="https://drive.google.com/file/d/1ty5wzlfUwj3awEbh1jtuixJR2P4n681d/view?usp=sharing"> Drafting a professional statement</a> 
+  </li>
+  <li> 
+    <a href="https://docs.google.com/document/d/1ZSQVgG-XAbbEtSEy11EsIkSgv90m_0lFio3xYutMp9k/edit?usp=sharing"> Conducting a security audit</a> 
+    <ul>
+      <li> <a href="https://docs.google.com/document/d/1IqSbFMlM7GmkOzdBHF1pG7a0jj09K7AXK1gcoyetAio/edit?usp=sharing"> Botium Toys: Scope, goals, and risk assessment report</a></li>
+      <li>
+        <a href="https://docs.google.com/document/d/1KM0ejDbOWln5wg86kguGcVycywEHxrDxTq0cB0kYIu8/edit?usp=sharing&resourcekey=0-8xzUY0izSI5ezqT6v535jA"> Control categories</a>
+      </li>
+    </ul>
+    
+  </li>
   <li> Analyzing network structure and security </li>
   <li> Using Linux commands to manage file permissions </li>
   <li> Applying filters to SQL queries </li>
@@ -68,7 +79,7 @@ I love helping people, value protecting others from scams, and consistently solv
 
 
 ---
-## Skills
+## Core Skills
 
 
  <div>
@@ -85,7 +96,7 @@ I love helping people, value protecting others from scams, and consistently solv
  </div>
 
 ---
- 
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
