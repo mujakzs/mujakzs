@@ -53,6 +53,8 @@ I love helping people, value protecting others from scams, and consistently solv
 
 ## 📁 Portfolio projects
 
+<img align="right" src="https://th.bing.com/th/id/R.5529dca9b2b8d7de9f25e5694fcffe6e?rik=Bs06Gyx02u8Xag&riu=http%3a%2f%2f38.media.tumblr.com%2fa4b2397e42b82acc430dae0c71f2b74c%2ftumblr_n6clpfH9Xo1s96b9jo1_500.gif&ehk=cJmHZGQloTjV4MAmG9QlEFovqXjUk7J0ybisEOULRSU%3d&risl=&pid=ImgRaw&r=0" width="150px"/>
+
 <ul>
   <li> 
     <a href="https://drive.google.com/file/d/1ty5wzlfUwj3awEbh1jtuixJR2P4n681d/view?usp=sharing"> Drafting a professional statement</a> 
