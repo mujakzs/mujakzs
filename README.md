@@ -49,20 +49,7 @@ I love helping people, value protecting others from scams, and consistently solv
 ## Resume
 📝👉 <a href="https://drive.google.com/file/d/1yLSDdr0OpqDGcLG7OBgB1zDxtJxPSzYy/view?usp=sharing">
  <b>Click Here</b> </a>👈
-
-
- <div>
-   
-   | Technical Skills                                       | Transferable Skills         |
-|-----------------------------------------------|----------------------------|
-| Security Information and Event Manager          | Communication|
-| Programming Languages | Collaboration|
-| Computer Forensics         | Analysis|
-| Intrusion Detection System     | Diverse Perspective|
-| Threat landscape Knowledge             | Problem Solving|
-| Incident Response | Time Management|
-
- </div>
+ 
 
 ## 📁 Portfolio projects
 
@@ -77,6 +64,25 @@ I love helping people, value protecting others from scams, and consistently solv
   <li> Importing and parsing a text file in a security-related scenario </li>
   <li> Creating or revising a resume </li>
 </ul>
+
+
+
+---
+## Skills
+
+
+ <div>
+   
+   | Technical Skills                                       | Transferable Skills         |
+|-----------------------------------------------|----------------------------|
+| Security Information and Event Manager          | Communication|
+| Programming Languages | Collaboration|
+| Computer Forensics         | Analysis|
+| Intrusion Detection System     | Diverse Perspective|
+| Threat landscape Knowledge             | Problem Solving|
+| Incident Response | Time Management|
+
+ </div>
 
 ---
  
