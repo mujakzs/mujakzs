@@ -1,0 +1,31 @@
+CYBER SEC
+	1.Networking and System Admin
+		-TCP/IP
+		- OSI layer
+		- configuring and maintaining computer
+
+	2.Operating Systems and Virtual Machine
+		-linux
+		-kali
+		-virtual machine
+	3. Network Security Control
+		-Firewall
+		-IDS IPS
+		-DOS
+	4. CODING languages
+		- Phyton
+		- C++
+		- SQL
+		- C
+		- JS
+		- PHP, HTML.
+		- GO
+	5. Cloud Security
+		-aws
+		-azure
+	6. RISK analysis
+	7. Information Security
+	8. Incident Response
+	9. Security Audit
+	10. Laws and rewgulation
+	
