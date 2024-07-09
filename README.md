@@ -137,5 +137,5 @@ I love helping people, value protecting others from scams, and consistently solv
 ---
 
 
-## : Favortie Quote:
- <img src="https://i.pinimg.com/originals/dd/93/fc/dd93fc39de0f3ee0bcbb5e060c0baa7d.jpg" width="300" height="300"/>
+
+<!-- <img src="https://i.pinimg.com/originals/dd/93/fc/dd93fc39de0f3ee0bcbb5e060c0baa7d.jpg" width="300" height="300"/> -->
