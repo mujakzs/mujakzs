@@ -79,6 +79,13 @@ I love helping people, value protecting others from scams, and consistently solv
 </ul>
 
 
+## 🥉Certification 
+
+<p>Achieving certification: a testament to dedication, expertise, and continuous professional growth.</p>
+
+ 💻 <a href="https://drive.google.com/drive/folders/1oawB5mYCEaFsvUuMdtH6ANQmIrBSK6EC?usp=sharing">  ONLINNE</a>  
+ 📚 <a href="https://drive.google.com/drive/folders/1_g0Ve-011c7Hypw8q7rBdcexO9aGfRLP?usp=sharing">  SCHOOL</a>
+
 
 ---
 ## 👨‍💼 Core Skills
@@ -129,3 +136,6 @@ I love helping people, value protecting others from scams, and consistently solv
 
 ---
 
+
+
+<!-- <img src="https://i.pinimg.com/originals/dd/93/fc/dd93fc39de0f3ee0bcbb5e060c0baa7d.jpg" width="300" height="300"/> -->
