@@ -69,7 +69,7 @@ I love helping people, value protecting others from scams, and consistently solv
     </ul>
     
   </li>
-  <li> Analyzing network structure and security </li>
+  <li> <a href="https://docs.google.com/document/d/1SHwtjkq5V5sbB3WximuDtpTDyenIdFvNLBjVT6ImEdU/edit?usp=sharing&resourcekey=0-Vz2Z1TLwWY8p1PqKMJ7rmA" > Analyzing</a> network structure and security </li>
   <li> Using Linux commands to manage file permissions </li>
   <li> Applying filters to SQL queries </li>
   <li> Identifying vulnerabilities for a small business </li>
