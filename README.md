@@ -74,7 +74,8 @@ I love helping people, value protecting others from scams, and consistently solv
       <li><a href="https://docs.google.com/spreadsheets/d/1mNmz9gWPOoswOo-3HXzb61YfEVXFstp-yPtiTDrsNsc/edit?usp=sharing">Network Hardening tools</a></li>
     </ul>
   </li>
-  <li> Using Linux commands to manage file permissions </li>
+  <li> Using Linux commands to <a href="https://docs.google.com/document/d/1ZCa-mhSAQ7b7PeT0PY3cscHOsVPJ7NFchZoazfqgb3w/edit?usp=sharing&resourcekey=0-63M4gG9QNOS2A8NDJ92i0w"> manage file permissions</a> </li>
+  
   <li> Applying filters to SQL queries </li>
   <li> Identifying vulnerabilities for a small business </li>
   <li> Documenting incidents with an incident handler’s journal </li>
