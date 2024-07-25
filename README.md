@@ -85,7 +85,7 @@ I love helping people, value protecting others from scams, and consistently solv
     
   </ul>
   
-  <li> Applying filters to SQL queries </li>
+  <li> <a href="https://drive.google.com/drive/folders/1ndiWMALGHVF9u6rsFG_h3wAhINcV96i-?usp=sharing"> Applying filters to SQL queries </a></li>
   <li> Identifying vulnerabilities for a small business </li>
   <li> Documenting incidents with an incident handler’s journal </li>
   <li> Importing and parsing a text file in a security-related scenario </li>
