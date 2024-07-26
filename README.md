@@ -86,7 +86,14 @@ I love helping people, value protecting others from scams, and consistently solv
   </ul>
   
   <li> <a href="https://drive.google.com/drive/folders/1ndiWMALGHVF9u6rsFG_h3wAhINcV96i-?usp=sharing"> Applying filters to SQL queries </a></li>
+  <ul>
+    <li>
+      <a href="https://drive.google.com/file/d/173EnTB9q64YOfRlkm8MzgU5wk3qrCOJc/view?usp=sharing">Reference Guilde SQL</a>
+    </li>
+    
+  </ul>
   <li> Identifying vulnerabilities for a small business </li>
+  
   <li> Documenting incidents with an incident handler’s journal </li>
   <li> Importing and parsing a text file in a security-related scenario </li>
   <li> Creating or revising a resume </li>
