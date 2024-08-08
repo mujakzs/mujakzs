@@ -47,7 +47,7 @@ I love helping people, value protecting others from scams, and consistently solv
 - ⚡ Fun fact **I am GymRats and love singing**
 
 ## Resume
-📝👉 <a href="https://drive.google.com/file/d/1yLSDdr0OpqDGcLG7OBgB1zDxtJxPSzYy/view?usp=sharing">
+📝👉 <a href="https://drive.google.com/file/d/1-fqQ7EAde21LryLcrAmsyGEtrQqZQZYX/view?usp=sharing">
  <b>Click Here</b> </a>👈
  
 
