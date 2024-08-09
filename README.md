@@ -92,7 +92,7 @@ I love helping people, value protecting others from scams, and consistently solv
     </li>
     
   </ul>
-  <li> Identifying vulnerabilities for a small business </li>
+  <li> <a href="https://docs.google.com/document/d/1PQwpvv4LufcmUwCrvYlq-ThxWtElHtlB/edit?usp=drive_link&ouid=103751730887067016758&rtpof=true&sd=true" >Identifying vulnerabilities for a small business </a> </li>
   
   <li> Documenting incidents with an incident handler’s journal </li>
   <li> Importing and parsing a text file in a security-related scenario </li>
