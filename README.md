@@ -94,7 +94,12 @@ I love helping people, value protecting others from scams, and consistently solv
   </ul>
   <li> <a href="https://docs.google.com/document/d/1PQwpvv4LufcmUwCrvYlq-ThxWtElHtlB/edit?usp=drive_link&ouid=103751730887067016758&rtpof=true&sd=true" >Identifying vulnerabilities for a small business </a> </li>
   
-  <li> Documenting incidents with an incident handler’s journal </li>
+  <li> <a href="https://docs.google.com/document/d/1e0ygihXlHZxkj1dLyeGXo9iubkOUMN4rKq3pJdpL95w/edit?usp=sharing&resourcekey=0-rbOeG4Q7ijLO-b-dMDjc7w" >Documenting incidents with an incident handler’s journal</a> </li>
+  <ul>
+    <li>
+      <a href="https://docs.google.com/document/d/1CyU_du4dnWZI_cpEXgetfpixuIKoDc_k/edit?usp=sharing&ouid=103751730887067016758&rtpof=true&sd=true">Guide</a>
+    </li>
+  </ul>
   <li> Importing and parsing a text file in a security-related scenario </li>
   <li> Creating or revising a resume </li>
 </ul>
