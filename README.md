@@ -100,6 +100,13 @@ I love helping people, value protecting others from scams, and consistently solv
       <a href="https://docs.google.com/document/d/1CyU_du4dnWZI_cpEXgetfpixuIKoDc_k/edit?usp=sharing&ouid=103751730887067016758&rtpof=true&sd=true">Guide</a>
     </li>
   </ul>
+
+  <ul>
+    <li>
+      <a href="https://docs.google.com/presentation/d/15A47OuQC-av92bQQRVhlmCEgrJa1Dn1CAoht6FB2-50/edit?usp=sharing">Invistigate a suspicious file hash</a>
+    </li>
+  </ul>
+  
   <li> Importing and parsing a text file in a security-related scenario </li>
   <li> Creating or revising a resume </li>
 </ul>
