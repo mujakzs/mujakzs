@@ -107,7 +107,7 @@ I love helping people, value protecting others from scams, and consistently solv
     </li>
   </ul>
   
-  <li> Importing and parsing a text file in a security-related scenario </li>
+  <li> <a href="https://docs.google.com/document/d/1Jp8ROrkqCAbRBY7pO7k9QvUF9cfaDMyKgUD7AFFvWwk/edit?usp=sharing&resourcekey=0-Fx5XsJoR-dtF6tLUcumIoA">Importing and parsing a text file in a security-related scenario </li>
   <li> Creating or revising a resume </li>
 </ul>
 
