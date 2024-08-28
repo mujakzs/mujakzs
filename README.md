@@ -2,7 +2,6 @@
 <div id="header" align="center">
   
   <img src="./Portfolio Documents/images/banner.png" alt="Andrian Gultiano"></img>
-  
   <div id="badges">
   <a href="https://www.linkedin.com/in/andrian-gultiano-48027a294">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -119,6 +118,9 @@ I love helping people, value protecting others from scams, and consistently solv
  💻 <a href="https://drive.google.com/drive/folders/1oawB5mYCEaFsvUuMdtH6ANQmIrBSK6EC?usp=sharing">  ONLINNE</a>  
  📚 <a href="https://drive.google.com/drive/folders/1_g0Ve-011c7Hypw8q7rBdcexO9aGfRLP?usp=sharing">  SCHOOL</a>
 
+## 🥈 Badge
+
+<img src="Education/Online/cyberSECURITY/google-cybersecurity-certificate.png" height=250 width=250></img>
 
 ---
 ## 👨‍💼 Core Skills
