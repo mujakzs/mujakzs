@@ -43,7 +43,7 @@ I love helping people, value protecting others from scams, and consistently solv
 
 - 📫 How to reach me **andriangultiano14@gmail.com** | [![Linkedin Badge](https://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
-- ⚡ Fun fact **I am GymRats and love singing**
+- ⚡ Fun fact **I am GymRats and love Coding**
 
 ## Resume
 📝👉 <a href="https://drive.google.com/file/d/1-fqQ7EAde21LryLcrAmsyGEtrQqZQZYX/view?usp=sharing">
