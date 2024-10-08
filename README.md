@@ -23,7 +23,7 @@
 
 
 <h1>
- 🛡️ Entry-level Cyber Security Analysts 
+ 💻 Full stack Developer 🖱️
 </h1>
 
 <div align="center">
