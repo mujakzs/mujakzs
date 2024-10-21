@@ -39,7 +39,8 @@ I am a Computer Engineer with a passion for continuous learning. My greatest str
 I have a talent for analytical and logical thinking and programming. I am passionate about achieving success in ethical hacking and penetration testing. 
 I love helping people, value protecting others from scams, and consistently solve complex problems.
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security **
+- 🌱 I’m currently Working **Full Stack Development **
 
 - 📫 How to reach me **andriangultiano14@gmail.com** | [![Linkedin Badge](https://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
