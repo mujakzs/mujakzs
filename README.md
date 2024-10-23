@@ -134,7 +134,7 @@ I love helping people, value protecting others from scams, and consistently solv
 | Security Information and Event Manager          | Communication|
 | Programming Languages | Collaboration|
 | Computer Forensics         | Analysis|
-| Intrusion Detection System     | Diverse Perspective|
+| Intrusion Detection System     | Critical Thinking|
 | Threat landscape Knowledge             | Problem Solving|
 | Incident Response | Time Management|
 
