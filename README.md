@@ -23,7 +23,7 @@
 
 
 <h1>
- 💻 Full stack Developer 🖱️
+ 💻 Entry Level Cybersecurity 🖱️
 </h1>
 
 <div align="center">
