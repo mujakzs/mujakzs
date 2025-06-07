@@ -23,7 +23,7 @@
 
 
 <h1>
- 💻 Entry Level Cybersecurity 🖱️
+ 💻 Entry Level Application Lead 🖱️
 </h1>
 
 <div align="center">
