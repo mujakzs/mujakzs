@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-  <img src="./Portfolio Documents/images/banner.png" alt="Andrian Gultiano"></img>
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/andrian-gultiano-48027a294">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
