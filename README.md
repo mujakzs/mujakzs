@@ -38,11 +38,8 @@ I work at KCC <a href = "https://andrian-m-gultiano.vercel.app/">
 
  
 
-## 📁 Projects
+## 
 
-<img align="right" src="https://th.bing.com/th/id/R.5529dca9b2b8d7de9f25e5694fcffe6e?rik=Bs06Gyx02u8Xag&riu=http%3a%2f%2f38.media.tumblr.com%2fa4b2397e42b82acc430dae0c71f2b74c%2ftumblr_n6clpfH9Xo1s96b9jo1_500.gif&ehk=cJmHZGQloTjV4MAmG9QlEFovqXjUk7J0ybisEOULRSU%3d&risl=&pid=ImgRaw&r=0" width="150px"/>
-
-<p>HelLo World!</p>
 
 
 ### :hammer_and_wrench: Languages and Tools :
