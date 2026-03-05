@@ -1,71 +1,49 @@
+# Welcome to my Github userpage
 
-<div id="header" align="center">
-  
+I am Ands, an Application Lead and Software Developer with a background in Computer Engineering, focused primarily on backend systems and enterprise applications. I work extensively with legacy systems, system integrations, and process automation.
 
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/andrian-gultiano-48027a294">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/mujakz/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/mujakz/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+To reach me, you may connect with me through professional platforms or collaborate via GitHub.
 
-<img src="https://komarev.com/ghpvc/?username=mujakzs&style=flat-square&color=blue" alt=""/>
+Planning to pursue a master’s degree in Software Engineering or a related field to deepen my expertise in system architecture and scalable application design.
 
+Separate Github account for work use only: [@Andrianmuj](https://github.com/Andrianmuj)
 
+## Programming Languages
 
-<h1>
- Application Lead - MIS
-</h1>
+`c#`, `Javascript`, `PL/SQL`, `SQL` and `c++`.
 
-<div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600" height="300"/>
-</div>
+To learn more about: `DevOps & Cloud`
 
-</div>
+## Frameworks
 
----
+- ASP.NET Core stack
+- Blazor ecosystem
+- Modern SPA stack (React + Vite + Tailwind)
+- Enterprise backend patterns (EF Core, Dapper, MediatR, SignalR)
 
-### :man_technologist: About Me :
-I work at KCC <a href = "https://andrian-m-gultiano.vercel.app/">
-.. .----. -- / .- / ... .. -- .--. .-.. . / --. ..- -.-- / .-- .... --- / .-.. --- ...- . ... / .--. .-.. .- -.-- .. -. --. / -.. --- - .- / .- -. -.. / -.. .. ...- .. -. --. / .. -. - --- / - .... . / .-- --- .-. .-.. -.. / --- ..-. / - . -.-. .... -. --- .-.. --- --. -.-- .-.-.- / .- .-.. .-- .- -.-- ... / . .- --. . .-. / - --- / .-.. . .- .-. -. / .- -. -.. / --. .-. --- .-- --..-- / .. / . -. .--- --- -.-- / ... .... .- .-. .. -. --. / -.- -. --- .-- .-.. . -.. --. . / .- -. -.. / -.-. --- -. -. . -.-. - .. -. --. / .-- .. - .... / .-.. .. -.- . -....- -- .. -. -.. . -.. / . -. - .... ..- ... .. .- ... - ... .-.-.- </a>
+<details>
 
+<summary>Others</summary>
 
- 
+### Other Frameworks
+- Razor Pages
+- ASP.NET Core MVC
+- ASP.NET Web API
+- MudBlazor
+- Fluent UI
+- Shadcn/UI
 
-## 
+### Architecture
+- Clean Architecture
+- Onion Architecture
+- Domain-Driven Design (DDD)
+- CQRS
 
+### Other links
 
+WebProfile - <https://andrian-m-gultiano.vercel.app/>
 
-### :hammer_and_wrench: Languages and Tools :
-
-
-<div>
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+Linkin - <https://www.linkedin.com/in/andrian4/>
 
 
- ---
-
-
-
-
-
-
-<!-- <img src="https://i.pinimg.com/originals/dd/93/fc/dd93fc39de0f3ee0bcbb5e060c0baa7d.jpg" width="300" height="300"/> -->
+</details>
