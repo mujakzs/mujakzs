@@ -8,6 +8,10 @@ Planning to pursue a master’s degree in Software Engineering or a related fiel
 
 Separate Github account for work use only: [@Andrianmuj](https://github.com/Andrianmuj)
 
+<details>
+
+<summary><b>Others</b></summary>
+  
 ## Programming Languages
 
 `c#`, `Javascript`, `PL/SQL`, `SQL` and `c++`.
@@ -21,9 +25,6 @@ To learn more about: `DevOps & Cloud`
 - Modern SPA stack (React + Vite + Tailwind)
 - Enterprise backend patterns (EF Core, Dapper, MediatR, SignalR)
 
-<details>
-
-<summary>Others</summary>
 
 ### Other Frameworks
 - Razor Pages
