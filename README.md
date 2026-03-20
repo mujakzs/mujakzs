@@ -1,6 +1,6 @@
 # Welcome to my Github userpage
 
-I am Ands, an Application Lead and Software Developer with a background in Computer Engineering, focused primarily on backend systems and enterprise applications. I work with legacy systems, system integrations, and SAAS utility.
+I am Ands, an Application Lead and Solo Developer with a background in Computer Engineering, focused primarily on backend systems and enterprise applications. I work with legacy systems, system integrations, and SAAS utility.
 
 To reach me, you may connect with me through professional platforms or collaborate via GitHub.
 
